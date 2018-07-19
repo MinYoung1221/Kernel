@@ -1,0 +1,2 @@
+make -j5 mrproper
+Total compile time is 0 minutes 1 seconds
